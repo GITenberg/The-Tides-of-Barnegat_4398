@@ -1,0 +1,33 @@
+_repo: The-Tides-of-Barnegat_4398
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Francis Hopkinson
+    alias: Smith, F. Hopkinson (Francis Hopkinson)
+    birthdate: 1838
+    deathdate: 1915
+    gutenberg_agent_id: '444'
+    url: http://www.gutenberg.org/2009/agents/444
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lifesaving -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Adopted children -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Storms -- Fiction'
+- !lcsh 'Barnegat Bay Region (N.J.) -- Fiction'
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcsh 'Sisters -- Fiction'
+- GITenberg
+title: The Tides of Barnegat
+url: http://www.gutenberg.org/ebooks/4398
